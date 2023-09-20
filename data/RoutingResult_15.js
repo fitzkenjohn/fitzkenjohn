@@ -1,0 +1,1 @@
+var json_RoutingResult_15 = {"type":"FeatureCollection","name":"RoutingResult_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[123.7116446,13.1483183],[123.71183,13.14817],[123.71204,13.14797]]}}]}
